@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "RedSaltLamp"
   avatar : "/assets/images/redsaltlamp.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
